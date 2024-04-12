@@ -1,4 +1,4 @@
-This IoT-based project, this initiative aims to enhance road safety by utilizing an Eye Blink Sensing sensor to detect driver drowsiness, thereby mitigating the risk of accidents associated with driver fatigue.
+This IoT-based project, this initiative aims to enhance road safety by utilizing an Eye Blink Sensing sensor to detect driver drowsiness, thereby mitigating the risk of accidents associated with driver fatigue. The main goal of this project is to create a system that enhances the safety of both the driver and passengers while driving. 
 Components used here:
 1) Eye Blink Sensor (IR Infrared)
 2) NodeMCU ESP8266
